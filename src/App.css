@@ -1,0 +1,11 @@
+.tweet {
+    border: 2px solid black;
+    text-align: center;
+}
+.wrapper {
+    padding: 5px 20px;
+
+}
+.wrapper fieldset {
+    margin: 20px 0;
+}
